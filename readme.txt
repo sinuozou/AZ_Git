@@ -1,11 +1,3 @@
-gbfdgdfsgfxb
-
-dfbsdfb
-dfb
-
-123
-31
-
 
 132
 mvmgm
@@ -15,4 +7,3 @@ ghm
 ghm
 hg
 m
-
